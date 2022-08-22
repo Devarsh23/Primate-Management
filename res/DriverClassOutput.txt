@@ -1,0 +1,94 @@
+"C:\Program Files\Java\jdk-11.0.12\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.2.1\lib\idea_rt.jar=62585:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.2.1\bin" -Dfile.encoding=UTF-8 -classpath "C:\Users\devar\Documents\PDP CS\Project1_PDP\out\production\Project1_PDP" Driver
+You have arrived at the Jungle Friends Primate Sanctuary!
+
+In our sanctuary, you'll find 1 isolations and 10 enclosures
+
+Now, we'll see all the features of this Sanctuary like:
+
+Adding a new Primate to the isolation
+A primate having details like:
+Monkey Name: Monkey1
+Monkey ID: 1
+Monkey Age: 3
+Monkey Size: 5
+Monkey Species: SAKI
+Sex: FEMALE
+Favourite Food: Insects
+has been added to an isolation
+
+
+ Now, let's remove the same monkey from the isolation.
+A primate having details like:
+Monkey Name: Monkey1
+Monkey ID: 1
+Monkey Age: 3
+Monkey Size: 5
+Monkey Species: SAKI
+Sex: FEMALE
+Favourite Food: Insects
+has been removed from the isolation
+
+ Now, we'll see the shifting of a monkey from Isolation to Enclosure
+A primate having details like:
+Monkey Name: Monkey1
+Monkey ID: 1
+Monkey Age: 3
+Monkey Size: 5
+Monkey Species: SAKI
+Sex: FEMALE
+Favourite Food: Insects
+has been shifted from the isolation to enclosure
+
+Let's add a monkey to the enclosure
+A monkey having details like: 
+Monkey Name: Primate1
+Monkey ID: 2
+Monkey Age: 1
+Monkey Size: 1
+Monkey Species: HOWLER
+Sex: MALE
+Favourite Food: TreeSap
+has been added to an enclosure
+
+Let's shift the monkey from enclosure to isolation
+A monkey having details like: 
+Monkey Name: Primate1
+Monkey ID: 2
+Monkey Age: 1
+Monkey Size: 1
+Monkey Species: HOWLER
+Sex: MALE
+Favourite Food: TreeSap
+has been shifted to an isolation
+
+Now, we'll remove a monkey from the enclosure.
+A monkey having details like: 
+Monkey Name: Primate1
+Monkey ID: 2
+Monkey Age: 1
+Monkey Size: 1
+Monkey Species: HOWLER
+Sex: MALE
+Favourite Food: TreeSap
+has been removed from an enclosure
+
+Now, we'll see the total Species housed in the Sanctuary in an alphabetically sorted order:
+[[DRILL, Enclosure], [HOWLER, Isolation], [HOWLER, Enclosure], [SAKI, Enclosure]]
+
+Let's lookup where we can find the MANGABEY species.
+HOWLER can be found at Isolation & Enclosure
+
+Let's get the list of monkey names sorted alphabetically along with their housing
+
+All housed monkeys in alphabetical order with their housing: 
+[[Monkey1, Enclosure], [Primate1, Isolation], [Primate1, Enclosure]]
+
+
+Let's get the signs of every monkey present
+
+Sign: 
+Monkey1, FEMALE, Insects
+Finally, let's see the shopping list for all the primates in the sanctuary: 
+{Insects=500, TreeSap=200}
+
+Process finished with exit code 0

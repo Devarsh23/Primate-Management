@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Project1_PDP:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Project1_PDP_jar</output-path>
+    <root id="archive" name="Project1_PDP.jar">
+      <element id="module-output" name="Project1_PDP" />
+    </root>
+  </artifact>
+</component>
